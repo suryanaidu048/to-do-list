@@ -23,7 +23,7 @@ This project is a simple web application that allows users to create a list of t
 
 ## Demo
 
-You can see a live demo of the application [here](#) (https://to-do-list-fewad.glitch.me/)
+You can see a live demo of the application (#) (https://to-do-list-fewad.glitch.me/)
 
 ## Usage
 
