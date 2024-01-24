@@ -9,7 +9,6 @@ A simple To-Do List Application built with HTML, CSS, and JavaScript.
 - [Demo](#demo)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
