@@ -31,7 +31,7 @@ To use the To-Do List Application locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/todo-list.git
+   git clone https://github.com/suryanaidu048/to-do-list.git
    ```
 
 2. Open `index.html` in your web browser.
